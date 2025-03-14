@@ -1,0 +1,45 @@
+.title{
+    color: #cf0632;
+    font-family: "Crafty Girls", cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+.link{
+    background-color: #e26580;
+    padding: 10px 3px;
+    color: #cae4eb;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #3fa0ba;
+}
+
+.charliePhotos {
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+}
+  
+.charliePhotos img {
+   padding: 10px;
+}
+
+.paragraph{
+    color: #b721bf;
+    font-family: "Crafty Girls", cursive;
+    font-size: 20px;
+    max-width: 75%;
+    text-align: center;
+}
+
+.otherPeople {
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+}
+
+.otherPeople img{
+    padding: 10px;
+}
