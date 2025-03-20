@@ -68,3 +68,9 @@ a:hover{
     width: 49%;
     display: inline-block;
 }
+
+.listed{
+    color: #b721bf;
+    font-family: "Crafty Girls", cursive;
+    font-size: 20px;
+}
